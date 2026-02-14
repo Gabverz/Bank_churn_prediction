@@ -1,6 +1,5 @@
-# sprint_09_project
+# Beta Bank Customer Churn Prediction Project
 
-Beta Bank Customer Churn Prediction Project
 ### Problem Context:
 Development of a machine learning classification system to predict customer churn for Beta Bank, enabling proactive customer retention strategies by identifying clients likely to leave the bank based on their behavioral and demographic characteristics.
 
